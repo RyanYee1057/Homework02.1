@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Hello Toast</string>
-    <string name="button_label_toast">Toast</string>
-    <string name="button_label_count">Count</string>
-    <string name="count_initial_value">0</string>
-    <string name="toast_message">Yee Zhi Sheng 19WMD01619</string>
+    <string name="app_name">Homework 02.1</string>
+    <string name="say_text">SAY HELLO</string>
+    <string name="count_text">COUNT</string>
+    <string name="zero">0</string>
+    <string name="hello_message">Hello!</string>
+    <string name="number">0</string>
 </resources>
